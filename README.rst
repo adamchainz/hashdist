@@ -5,10 +5,10 @@ HashDist
     https://hashdist.github.io/
 
 **Docs**:
-    http://hashdist.readthedocs.org/
+    https://hashdist.readthedocs.io/
 
 **Tutorial:**
-    http://hashdist.readthedocs.org/en/latest/tutorial.html
+    https://hashdist.readthedocs.io/en/latest/tutorial.html
 
 **Code:**
     https://github.com/hashdist/hashdist
